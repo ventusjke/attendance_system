@@ -1,0 +1,23 @@
+{
+  "Common": {
+    "recognize_counter_limit": 5,
+    "remember_counter_limit": 10,
+    "camera_channel": 0,
+    "exit_key": 27
+  },
+  "Speed": {
+    "compression_ratio": 3,
+    "frame_counter_limit": 3
+  },
+  "Database": {
+    "dbname": "users",
+    "user": "postgres",
+    "password": "",
+    "host": "127.0.0.1",
+    "port": 5432
+  },
+  "Customize": {
+    "text_color": "#ffbf00",
+    "frame_color": "#c1ff84"
+  }
+}
